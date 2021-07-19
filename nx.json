@@ -29,10 +29,6 @@
   "projects": {
     "hello-world": {
       "tags": []
-    },
-    "hello-world-e2e": {
-      "tags": [],
-      "implicitDependencies": ["hello-world"]
     }
   }
 }
